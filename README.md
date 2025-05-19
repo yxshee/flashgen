@@ -1,4 +1,4 @@
-# 🎉 Flashcard Maker
+# 🎉 Flashcard Generator
 
 [![Version](https://img.shields.io/badge/version-0.0.0-blue)]()
 [![License](https://img.shields.io/badge/license-CC0-lightgrey)]()
