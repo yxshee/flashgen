@@ -8,12 +8,6 @@
 
 ---
 
-## 📸 Demo
-
-![Demo GIF](./assets/demo.gif)
-
----
-
 ## 🚀 Table of Contents
 
 1. [Features](#-features)  
@@ -96,3 +90,7 @@ This project is released under the **CC0 1.0 Universal** license. See [LICENSE](
 ---
 
 > Made with ❤️ by [Your Name](https://github.com/yourusername)
+
+
+
+
