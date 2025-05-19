@@ -89,7 +89,7 @@ This project is released under the **CC0 1.0 Universal** license. See [LICENSE](
 
 ---
 
-> Made with ❤️ by [Your Name](https://github.com/yourusername)
+> Made with ❤️ by [Yash](https://github.com/yxshee)
 
 
 
